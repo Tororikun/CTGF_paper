@@ -1,1 +1,1 @@
-These data are associated with our CTGF paper.
+These data are associated with our research about biological function of CTGF in PDAC.
