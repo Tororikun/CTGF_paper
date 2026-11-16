@@ -1,0 +1,6 @@
+"item","value"
+"database","CellChatDB.human v2.2.0.9001 -- contains no CCN-family interactions"
+"custom_pairs_added","CTGF_LRP1; CTGF_ITGA5_ITGB1; CTGF_SDC4; CTGF_ITGAV_ITGB3; CTGF_ITGA6_ITGB1; CTGF_NTRK1"
+"curation","Manual; restricted to Tier-1 experimentally demonstrated CCN2 receptors (see T15)"
+"comparability","Probabilities for custom pairs are not directly comparable to native CellChatDB pairs"
+"suggested_methods_text","Because CellChatDB (v2.2.0.9001) contains no CCN-family ligand-receptor interactions, a custom CCN2/CTGF interaction set was added comprising six pairs restricted to experimentally demonstrated CCN2 receptors (LRP1, alpha5beta1, syndecan-4, alphaVbeta3, alpha6beta1, TrkA). These interactions are flagged as custom throughout and are interpreted as exploratory rather than as part of the curated database."

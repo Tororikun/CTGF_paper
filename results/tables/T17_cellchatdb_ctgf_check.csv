@@ -1,0 +1,2 @@
+"cellchat_version","database","n_interactions","n_pathways","CTGF_as_ligand","CCN2_as_ligand","n_CCN_family_pairs","CTGF_in_gene_index","conclusion"
+"2.2.0.9001","CellChatDB.human",3233,290,FALSE,FALSE,0,TRUE,"CTGF/CCN2 is ABSENT from CellChatDB. CTGF-specific LR results CANNOT be produced from the native database. No custom interaction was added (see 07b for the opt-in alternative)."

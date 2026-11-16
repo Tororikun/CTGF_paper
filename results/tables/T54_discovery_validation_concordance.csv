@@ -1,0 +1,2 @@
+"n_shared_genes","spearman_rho","p_value","n_significant_in_both","interpretation"
+6371,0.065,1.921e-07,27,"Gene-wise cross-cohort concordance of the CTGF-high CAF signature (cell-level). NOT a donor-level replication of the patient-level endpoint, which is not run in this cohort."

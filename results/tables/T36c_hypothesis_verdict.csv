@@ -1,0 +1,2 @@
+"question","n_patients","n_outcomes_tested","n_nominally_significant","n_significant_after_BH","strongest_positive","strongest_positive_rho","strongest_negative","strongest_negative_rho","power_caveat"
+"Does CTGF-high PDAC show increased activation of myCAF/iCAF/fibrotic programmes?",14,19,8,3,"myCAF_TGFb_CCN_sens_score",0.782,"allCAF_Inflammatory_score",-0.245,"With n = 14 patients, only |rho| > ~0.5 is detectable at p<0.05. A null result here is not evidence of no effect."

@@ -1,0 +1,2 @@
+"n_shared_genes","spearman_rho","p_value","n_significant_in_both","interpretation"
+4044,0.147,4.194e-21,41,"Positive rho = CTGF-high CAF signature is modality-robust (scRNA vs snRNA)."

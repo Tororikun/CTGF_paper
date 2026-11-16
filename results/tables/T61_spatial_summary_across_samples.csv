@@ -1,0 +1,5 @@
+"test","median_rho","n_pos","n_sig","n"
+"co_localisation",0.294581386516983,7,7,7
+"paracrine_tumourCTGF",-0.00377028065435048,3,3,7
+"autocrine_cafCTGF",0.378718445712263,7,6,7
+"distance_decay",0.00219822098404979,4,5,7

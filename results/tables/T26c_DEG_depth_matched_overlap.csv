@@ -1,0 +1,2 @@
+"n_sig_primary","n_sig_depth_matched","n_overlap","pct_of_primary_replicated","interpretation"
+71,9,7,9.9,"Only 9.9% replicate after depth matching: the primary DEG list is LARGELY A SEQUENCING-DEPTH ARTEFACT. Do not report T26 without T26b alongside it."

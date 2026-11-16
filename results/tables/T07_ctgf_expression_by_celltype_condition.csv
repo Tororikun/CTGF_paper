@@ -1,0 +1,28 @@
+"celltype","condition","n_cells","pct_pos","mean_expr"
+"Acinar","AdjNorm",1705,1.29,0.0097
+"Acinar","PDAC",478,2.3,0.0277
+"B cell","AdjNorm",172,1.74,0.0125
+"B cell","PDAC",1623,2.09,0.0188
+"Dendritic cell","PDAC",365,0.27,0.0023
+"Ductal (normal)","AdjNorm",259,49.42,0.8663
+"Ductal (normal)","PDAC",1722,7.2,0.1123
+"Endocrine","AdjNorm",60,5,0.0115
+"Endocrine","PDAC",35,0,0
+"Endothelial","AdjNorm",239,41,0.675
+"Endothelial","PDAC",265,41.89,0.6292
+"Fibroblast/CAF","AdjNorm",81,48.15,1.1792
+"Fibroblast/CAF","PDAC",1491,75.45,1.7498
+"Malignant PDAC","AdjNorm",267,3,0.0536
+"Malignant PDAC","PDAC",7349,20.02,0.1713
+"Mast cell","AdjNorm",230,0.43,0.0045
+"Mast cell","PDAC",1493,1.61,0.0147
+"Myeloid","AdjNorm",1838,0.6,0.0044
+"Myeloid","PDAC",11896,1.09,0.0096
+"Pericyte/SMC","AdjNorm",455,33.41,0.361
+"Pericyte/SMC","PDAC",720,33.89,0.3883
+"Plasma cell","AdjNorm",30,0,0
+"Plasma cell","PDAC",1269,11.19,0.0775
+"Proliferating","AdjNorm",80,2.5,0.0238
+"Proliferating","PDAC",582,8.76,0.0452
+"T/NK","AdjNorm",1793,0.22,0.0029
+"T/NK","PDAC",9524,1.11,0.0139

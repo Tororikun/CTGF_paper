@@ -1,0 +1,2 @@
+"comparison","cell_level_wilcox_p","cell_level_n","patient_level_paired_wilcox_p","patient_level_n","note"
+"Malignant PDAC vs Fibroblast/CAF",0,9188,0.0001221,14,"Cell-level p-values treat cells from one patient as independent and are anti-conservative; the patient-level paired test is the reportable statistic."

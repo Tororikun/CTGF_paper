@@ -1,0 +1,15 @@
+"gene","group","n_cells","n_pos","pct_pos","mean_expr","mean_expr_pos","median_expr"
+"CTGF","Fibroblast/CAF",1572,1164,74.05,1.7204,2.3235,1.68486897166335
+"CTGF","Endothelial",504,209,41.47,0.6509,1.5697,0
+"CTGF","Pericyte/SMC",1175,396,33.7,0.3777,1.1207,0
+"CTGF","Ductal (normal)",1981,252,12.72,0.2109,1.6581,0
+"CTGF","Malignant PDAC",7616,1479,19.42,0.1672,0.861,0
+"CTGF","Plasma cell",1299,142,10.93,0.0757,0.6927,0
+"CTGF","Proliferating",662,53,8.01,0.0426,0.5327,0
+"CTGF","B cell",1795,37,2.06,0.0182,0.8839,0
+"CTGF","Acinar",2183,33,1.51,0.0137,0.9044,0
+"CTGF","Mast cell",1723,25,1.45,0.0134,0.9216,0
+"CTGF","T/NK",11317,110,0.97,0.0122,1.2519,0
+"CTGF","Myeloid",13734,141,1.03,0.0089,0.8652,0
+"CTGF","Endocrine",95,3,3.16,0.0073,0.2305,0
+"CTGF","Dendritic cell",365,1,0.27,0.0023,0.8278,0

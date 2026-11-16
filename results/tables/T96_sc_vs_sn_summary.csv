@@ -1,0 +1,5 @@
+"metric","scRNA_discovery","snRNA_GSE202051"
+"top CTGF source cell type","Fibroblast/CAF","Fibroblast/CAF"
+"CAF myCAF % (this modality)",NA,"48.46"
+"CTGF-high TGFb activation up?","yes","yes"
+"modality","scRNA","snRNA"

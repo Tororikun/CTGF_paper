@@ -1,0 +1,2 @@
+"verdict","executed_method","moran_null","paracrine_median_rho","autocrine_median_rho","decay_median_rho","n_samples","note"
+"NO CONSISTENT SPATIAL ASSOCIATION in this cohort","signature_threshold","spatial_block",-0.00377028065435048,0.378718445712263,0.00219822098404979,7,"Exploratory signature/threshold spatial association, NOT cell-type deconvolution; spatial-block permutation null; sample is the unit of replication (spots are not independent); co-localisation is not causal and does not establish secretion source/direction."

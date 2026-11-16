@@ -1,0 +1,2 @@
+"score_metric","n_ligands","ctgf_rank","ctgf_percentile","verdict"
+"aupr_corrected",218,6,97.7,"CTGF/CCN2 is a TOP ligand: rank 6/218 (98th percentile) by aupr_corrected -- network-based support for tumour CTGF driving CAF activation"

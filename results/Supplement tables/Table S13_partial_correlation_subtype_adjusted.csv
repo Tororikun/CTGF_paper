@@ -1,0 +1,5 @@
+"outcome","rho_zero_order","p_zero_order","rho_basal_adjusted","p_basal_adjusted","n","attenuation","verdict"
+"allCAF_TGFb_score",0.741,0.0058,0.937,2.1e-05,12,-0.196,"survives subtype adjustment"
+"allCAF_ECM_fibrosis_score",0.65,0.022,0.762,0.00636,12,-0.112,"survives subtype adjustment"
+"abundance_pct_myCAF",0.02,0.945,0.02,0.948,14,0,"survives subtype adjustment"
+"allCAF_myCAF_score",0.573,0.0513,0.574,0.065,12,0,"survives subtype adjustment"

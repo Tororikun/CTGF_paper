@@ -1,0 +1,32 @@
+"gene","tier","detail","evidence","detected"
+"LRP1","Tier 1: direct CCN2 receptor","LRP1","Segarini 2001 JBC: LRP1 binds CCN2, mediates internalisation/signalling",TRUE
+"ITGA5","Tier 1: direct CCN2 receptor","a5b1","a5b1-CCN2 binding: CITATION NEEDS AUDIT (Gao & Brigstock 2004 is avb3/HSPG, not a5b1)",TRUE
+"ITGB1","Tier 1: direct CCN2 receptor","a5b1 / a6b1","b1-integrin requirement for CCN2 adhesion: verify primary source (Chen 2001 JBC candidate)",TRUE
+"SDC4","Tier 1: direct CCN2 receptor","syndecan-4 co-receptor","SDC4 as obligate CCN2 co-receptor: CITATION NEEDS AUDIT (not Gao & Brigstock 2004)",TRUE
+"ITGAV","Tier 1: direct CCN2 receptor","avb3","avb3 binds CCN family, adhesion/migration (Babic 1999; Gao & Brigstock 2004 avb3/HSPG)",TRUE
+"ITGB3","Tier 1: direct CCN2 receptor","avb3","b3 integrin partner of avb3 for CCN binding (Babic 1999)",TRUE
+"ITGAM","Tier 1: direct CCN2 receptor","aMb2 (Mac-1)","Schober 2002 Blood: aMb2 mediates CCN2-dependent monocyte adhesion",TRUE
+"ITGB2","Tier 1: direct CCN2 receptor","aMb2 (Mac-1)","Schober 2002 Blood: b2 integrin partner of aMb2",TRUE
+"ITGA6","Tier 1: direct CCN2 receptor","a6b1","Chen 2001 JBC: a6b1 + HSPG mediate CCN2 adhesion of (skin) fibroblasts",TRUE
+"NTRK1","Tier 1: direct CCN2 receptor","TrkA","Wahab 2005 Biochem J: CCN2 signals via TrkA in mesangial cells",TRUE
+"LRP6","Tier 2: co-receptor / modulator","Wnt co-receptor; CCN2 modulates Wnt via LRP6 binding","context-dependent; see detail",TRUE
+"EGFR","Tier 2: co-receptor / modulator","transactivated downstream of CCN2; not a direct CCN2 receptor","context-dependent; see detail",TRUE
+"HSPG2","Tier 2: co-receptor / modulator","perlecan HSPG; heparin-binding surface for CCN2","context-dependent; see detail",TRUE
+"SDC1","Tier 2: co-receptor / modulator","syndecan-1 HSPG; co-receptor by analogy with SDC4","context-dependent; see detail",TRUE
+"TGFBR1","Tier 2: co-receptor / modulator","CCN2 potentiates TGF-beta signalling (binds TGF-b1, not TGFBR)","context-dependent; see detail",TRUE
+"TGFBR2","Tier 2: co-receptor / modulator","as above -- pathway partner, not a CCN2 receptor","context-dependent; see detail",TRUE
+"FN1","Tier 2: co-receptor / modulator","CCN2 binds fibronectin; matrix presentation rather than receptor","context-dependent; see detail",TRUE
+"ITGB5","Tier 2: co-receptor / modulator","av partner integrin; CCN family binding reported, weaker evidence","context-dependent; see detail",TRUE
+"ITGA1","Tier 3: CAF integrin, no CCN2 evidence","expressed by fibroblasts/CAFs; no established CCN2-binding evidence (comparator, not a negative control)","NEGATIVE CONTROL - not a CTGF receptor",TRUE
+"ITGA2","Tier 3: CAF integrin, no CCN2 evidence","expressed by fibroblasts/CAFs; no established CCN2-binding evidence (comparator, not a negative control)","NEGATIVE CONTROL - not a CTGF receptor",TRUE
+"ITGA3","Tier 3: CAF integrin, no CCN2 evidence","expressed by fibroblasts/CAFs; no established CCN2-binding evidence (comparator, not a negative control)","NEGATIVE CONTROL - not a CTGF receptor",TRUE
+"ITGA4","Tier 3: CAF integrin, no CCN2 evidence","expressed by fibroblasts/CAFs; no established CCN2-binding evidence (comparator, not a negative control)","NEGATIVE CONTROL - not a CTGF receptor",TRUE
+"ITGA7","Tier 3: CAF integrin, no CCN2 evidence","expressed by fibroblasts/CAFs; no established CCN2-binding evidence (comparator, not a negative control)","NEGATIVE CONTROL - not a CTGF receptor",TRUE
+"ITGA8","Tier 3: CAF integrin, no CCN2 evidence","expressed by fibroblasts/CAFs; no established CCN2-binding evidence (comparator, not a negative control)","NEGATIVE CONTROL - not a CTGF receptor",TRUE
+"ITGA9","Tier 3: CAF integrin, no CCN2 evidence","expressed by fibroblasts/CAFs; no established CCN2-binding evidence (comparator, not a negative control)","NEGATIVE CONTROL - not a CTGF receptor",TRUE
+"ITGA10","Tier 3: CAF integrin, no CCN2 evidence","expressed by fibroblasts/CAFs; no established CCN2-binding evidence (comparator, not a negative control)","NEGATIVE CONTROL - not a CTGF receptor",TRUE
+"ITGA11","Tier 3: CAF integrin, no CCN2 evidence","expressed by fibroblasts/CAFs; no established CCN2-binding evidence (comparator, not a negative control)","NEGATIVE CONTROL - not a CTGF receptor",TRUE
+"ITGAX","Tier 3: CAF integrin, no CCN2 evidence","expressed by fibroblasts/CAFs; no established CCN2-binding evidence (comparator, not a negative control)","NEGATIVE CONTROL - not a CTGF receptor",TRUE
+"ITGB4","Tier 3: CAF integrin, no CCN2 evidence","expressed by fibroblasts/CAFs; no established CCN2-binding evidence (comparator, not a negative control)","NEGATIVE CONTROL - not a CTGF receptor",TRUE
+"ITGB6","Tier 3: CAF integrin, no CCN2 evidence","expressed by fibroblasts/CAFs; no established CCN2-binding evidence (comparator, not a negative control)","NEGATIVE CONTROL - not a CTGF receptor",TRUE
+"ITGB8","Tier 3: CAF integrin, no CCN2 evidence","expressed by fibroblasts/CAFs; no established CCN2-binding evidence (comparator, not a negative control)","NEGATIVE CONTROL - not a CTGF receptor",TRUE

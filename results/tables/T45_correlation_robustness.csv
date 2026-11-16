@@ -1,0 +1,5 @@
+"outcome","n_patients","rho_full","p_perm","loo_rho_min","loo_rho_max","loo_all_same_sign","loo_all_abs_gt_0.3","most_influential_patient","stable"
+"allCAF_TGFb_score",12,0.741,0.0066,0.682,0.809,TRUE,TRUE,"PDAC_TISSUE_11",TRUE
+"abundance_pct_myCAF",14,0.02,0.957,-0.062,0.209,FALSE,FALSE,"PDAC_TISSUE_8",FALSE
+"allCAF_ECM_fibrosis_score",12,0.65,0.027,0.555,0.791,TRUE,TRUE,"PDAC_TISSUE_16",TRUE
+"allCAF_myCAF_score",12,0.573,0.0618,0.455,0.673,TRUE,TRUE,"PDAC_TISSUE_6",TRUE

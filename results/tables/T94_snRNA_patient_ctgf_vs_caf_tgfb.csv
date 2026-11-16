@@ -1,0 +1,2 @@
+"x","y","n_patients","rho","p_value","modality"
+"CTGF_pseudobulk_log2cpm","CAF_TGFb_score",33,-0.059,0.7453,"snRNA"

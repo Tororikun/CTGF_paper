@@ -1,0 +1,4 @@
+"comparison","n","agree_pct"
+"CNV-lite vs inferCNV",6000,65
+"CNV-lite vs copyKAT",6000,45
+"inferCNV vs copyKAT",6000,50.9

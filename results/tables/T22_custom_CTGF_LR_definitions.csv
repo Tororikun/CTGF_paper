@@ -1,0 +1,7 @@
+"interaction_name","pathway_name","ligand","receptor","agonist","antagonist","co_A_receptor","co_I_receptor","evidence","annotation","interaction_name_2","is_neurotransmitter"
+"CTGF_LRP1","CCN2","CTGF","LRP1","","","","","Segarini et al. 2001 J Biol Chem 276:40659 - LRP1 binds and internalises CCN2","Secreted Signaling","CTGF - LRP1",FALSE
+"CTGF_ITGA5_ITGB1","CCN2","CTGF","ITGA5_ITGB1","","","","","Gao & Brigstock 2004 J Biol Chem 279:8848 - a5b1 mediates CCN2 adhesion","Secreted Signaling","CTGF - (ITGA5+ITGB1)",FALSE
+"CTGF_SDC4","CCN2","CTGF","SDC4","","","","","Gao & Brigstock 2004 J Biol Chem 279:8848 - syndecan-4 obligate co-receptor","Secreted Signaling","CTGF - SDC4",FALSE
+"CTGF_ITGAV_ITGB3","CCN2","CTGF","ITGAV_ITGB3","","","","","Babic et al. 1999 Mol Cell Biol 19:2958; Gao 2004 - avb3 binds CCN proteins","Secreted Signaling","CTGF - (ITGAV+ITGB3)",FALSE
+"CTGF_ITGA6_ITGB1","CCN2","CTGF","ITGA6_ITGB1","","","","","Chen et al. 2001 J Biol Chem 276:10443 - a6b1 + HSPG mediate CCN2 adhesion","Secreted Signaling","CTGF - (ITGA6+ITGB1)",FALSE
+"CTGF_NTRK1","CCN2","CTGF","NTRK1","","","","","Wahab et al. 2005 Biochem J 386:315 - CCN2 signals through TrkA","Secreted Signaling","CTGF - NTRK1",FALSE
